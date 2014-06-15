@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+#form_login{ border: 1px solid;  margin: 0 auto; width: 350px; padding-top: 13px; text-align: center; }
+div.login_field{ text-align: center; margin-bottom: 10px;}
+div.login_field label{display: block; float: left; margin-left: 37px; text-align: left; width: 68px;}
+div.login_field input{}
+#login-submit input{}
+#login-submit{margin-bottom: 14px;  text-align: center;}
+#recupero-password{display:block; text-align:center; margin-bottom: 13px;}
+div.error_message{color: #FF0000; padding: 10px; text-align: center; font-size: 13px;}
+#captcha{display:block; margin: 0 auto;}
+#changecaptcha{font-size: 14px;}
+#captcha-value{margin-top: 10px;}
